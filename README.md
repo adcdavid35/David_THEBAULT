@@ -1,7 +1,7 @@
 # David_THEBAULT
 Profile
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adcdavid35/David_THEBAULT&show_icons=true&theme=github_dark" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adcdavid35&show_icons=true&theme=github_dark" alt="Github Stats" />
 </p>
 
 <p>
