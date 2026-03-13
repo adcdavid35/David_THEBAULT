@@ -89,7 +89,7 @@ Profile
     </tr>
     <tr>
       <td><b>Site d’organisation d’événements (à venir)</b></td>
-      <td>PHP, MySQL</td>
+      <td>PHP, Symfony, MySQL</td>
       <td>Analyse, conception, développement et mise en place de tests fonctionnels</td>
     </tr>
   </tbody>
