@@ -83,7 +83,7 @@ Profile
       <td>Développement d’un jeu interactif avec gestion du DOM et logique JavaScript</td>
     </tr>
     <tr>
-      <td><b>Site d’enchères (à venir)</b></td>
+      <td><b>Site d’enchères (en pause)</b></td>
       <td>Java Spring Boot, SQL Server</td>
       <td>Application web en architecture en couches avec gestion des utilisateurs et des enchères</td>
     </tr>
