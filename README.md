@@ -88,7 +88,7 @@ Profile
       <td>Application web en architecture en couches avec gestion des utilisateurs et des enchères</td>
     </tr>
     <tr>
-      <td><b>Site d’organisation d’événements (à venir)</b></td>
+      <td><b>Site d’organisation d’événements (en cours)</b></td>
       <td>PHP, Symfony, MySQL</td>
       <td>Analyse, conception, développement et mise en place de tests fonctionnels</td>
     </tr>
