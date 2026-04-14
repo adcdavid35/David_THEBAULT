@@ -1,6 +1,7 @@
 <h1 align="center">👋 Bonjour, moi, c'est David </h1>
 
-<h3 align="center">💻 Développeur Web & Web Mobile | PHP • Symfony • Java • Spring</h3>
+<h2 align="center">💻 Concepteur Développeur d'Application | PHP • Symfony • Java • Spring</h2>
+<h3 align="center">Recherche une ALTERNANCE BAC +3 | 2026 - 2027 </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adcdavid35&show_icons=true&theme=github_dark&hide_border=true" />
