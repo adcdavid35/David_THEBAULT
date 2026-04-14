@@ -63,7 +63,7 @@ Profile
 </p>
 
 <p>
-  <strong>2025 – 2026 :</strong> Stage :<br/>
+  <strong>avril - juin 2026 :</strong> Stage :<br/>
   Association des Russophones de Bretagne<br/>
   Dans le cadre de la préparetion de mon titre DW2M, je vais réaliser le site vitrine de l'association.</br>
   Projet PHP 8+, Symfony 7.4, MySQL.</br>
