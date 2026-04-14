@@ -68,10 +68,10 @@ Profile
   Dans le cadre de la préparation de mon titre DW2M, je vais réaliser le site vitrine de l'association.</br>
   Projet PHP 8+, Symfony 7.4, MySQL.</br>
   Je pars de presque zéro et vais mener le projet de bout en bout : </br>
-  - Analyse des besoins,
+  - Analyse des besoins, </br>
   - Conceptions de maquettes graphiques et fonctionnelles en liasion avec une Web Designeuses bénévole.<br>
-  - Développement des fonctionnalités demandées (gestions des adhérents / inscriptions aux activités)
-  - Déploiement 
+  - Développement des fonctionnalités demandées (gestions des adhérents / inscriptions aux activités) </br>
+  - Déploiement  </br>
   Mon objectif est de réduire la charge de travail du bureau de l'association en regroupant leur différents supports <br> 
   (WordPress / excel / PDF / HelloAsso etc...)
 </p>
