@@ -20,7 +20,6 @@ Profile
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-005FAD?style=flat-square"/>
 </p>
 
 <h4>Frameworks & plateformes</h4>
@@ -29,8 +28,6 @@ Profile
   <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
 </p>
 
 <h4>Environnements & outils</h4>
@@ -38,7 +35,6 @@ Profile
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/JetBrains-000000?style=flat-square&logo=jetbrains&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
@@ -62,9 +58,26 @@ Profile
   <strong>2025 – 2026 :</strong> Formation Développeur Web et Web Mobile<br/>
   ENI École Informatique – Rennes<br/>
   Titre professionnel homologué par l’État – Niveau 5 (Bac +2) à obtenir en juillet 2026.</br>
-  Je recherche un stage d'avril à juin 2026 pour compléter ma formation.</br>
-  Je souhaite poursuivre mes études avec un BAC +3 Concepteur Développeur d'Application au moins.
+  Je souhaite poursuivre mes études avec un BAC +3 Concepteur Développeur d'Application au moins.</br>
+  Je recherche une alternance à partir de juillet 2026. Début de formation le 12/10/2026 à l'ENI.
 </p>
+
+<p>
+  <strong>2025 – 2026 :</strong> Stage :<br/>
+  Association des Russophones de Bretagne<br/>
+  Dans le cadre de la préparetion de mon titre DW2M, je vais réaliser le site vitrine de l'association.</br>
+  Projet PHP 8+, Symfony 7.4, MySQL.</br>
+  Je pars de presque zéro et vais mener le projet de bout en bout : </br>
+  - Analyse des besoins,
+  - Conceptions de maquettes graphiques et fonctionnelles en liasion avec une Web Designeuses bénévole.<br>
+  - Développement des fonctionnalités demandées (gestions des adhérents / inscriptions aux activités)
+  - Déploiement 
+  Mon objectif est de réduire la charge de travail du bureau de l'association en regroupant leur différents supports <br> 
+  (WordPress / excel / PDF / HelloAsso etc...)
+</p>
+
+
+
 
 <h3>💼 Projets réalisés</h3>
 
@@ -88,9 +101,14 @@ Profile
       <td>Application web en architecture en couches avec gestion des utilisateurs et des enchères</td>
     </tr>
     <tr>
-      <td><b>Site d’organisation d’événements (en cours)</b></td>
+      <td><b>Site d’organisation d’événements (terminé)</b></td>
       <td>PHP, Symfony, MySQL</td>
       <td>Analyse, conception, développement et mise en place de tests fonctionnels</td>
+    </tr>
+    <tr>
+      <td><b>Site de l'association ARBre (à venir)</b></td>
+      <td>PHP, Symfony, MySQL</td>
+      <td>Analyse, conception, développement et déploiement</td>
     </tr>
   </tbody>
 </table>
