@@ -29,34 +29,34 @@ Développeur web formé à l’ENI École Informatique de Rennes 🎓, je conço
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### ⚙️ Frameworks
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
 ### 🧰 Outils
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 
 ### 🗄️ Bases de données
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 📌 Projets
 
-| 🚀 Projet | 🛠️ Stack | 📄 Description |
-|----------|----------|----------------|
-| Memory Game | HTML / CSS / JS | Jeu interactif avec logique JS |
-| Site d’enchères | Spring Boot / SQL Server | Architecture backend en couches |
-| Gestion événements | Symfony / PHP / MySQL | Application full-stack complète |
-| ARBre (en cours) | Symfony / MySQL | Site vitrine + gestion association |
+| 🚀 Projet | 🛠️ Stack | 📖 Description | 📝 Tâches réalisées | 🚦 Status |
+|-----------|-----------|-----------------|---------------------|------------|
+| Memory Game | HTML / CSS / JS | Jeu interactif | Front avec logique JS | Terminé |
+| ENI-Encheres | Java / Spring Boot / SQL Server | Plateforme web permettant la cession d'objets de seconde main sans échanges financiers | Back : Sécurisation, gestion utilisateur | En cours |
+| Gestion événements | PHP / Symfony / MySQL | Plateforme web permettant d’organiser des sorties entre élèves de l'ENI | Back : Sécurisation, Voter, Cron, Logique métier | Terminé |
+| ARBre | PHP / Symfony / MySQL | Site vitrine + gestion association | --- | A venir |
 
 ---
 
@@ -76,15 +76,14 @@ Développeur web formé à l’ENI École Informatique de Rennes 🎓, je conço
 - 🌐 Développement de projets full-stack complexes
 
 ---
-
-## 📬 Contact
+<h2 align="center">📬 Contact</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/david-thebault">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/david-thebault" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/adcdavid35">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/adcdavid35" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
